@@ -71,15 +71,15 @@ h3 {
 
 #logo {
   float: left;
-  height: 90px;
-  font-family: Georgia, Times, "Times New Roman", serif;
+  height: 60px;
+  font-family: 'Handlee', cursive;
   font-size: 30px;
   font-weight: 700;
-  line-height: 90px;
-  color: #fff;
+  line-height: 65px;
+  color: #999;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  /* background: #4aaaa5; */
   padding: 0 10px;
 }
 
